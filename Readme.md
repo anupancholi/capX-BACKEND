@@ -97,5 +97,6 @@ cache_system.displayCache()
 
 
 ## Output for the above sample test cases -
-<img width="1148" alt="Screenshot 2024-09-10 at 15 48 33" src="https://github.com/user-attachments/assets/8b702809-5b7d-4b8f-9d89-6852717a1a02">
+<img width="1148" alt="Screenshot 2024-09-10 at 15 48 33" src="https://github.com/user-attachments/assets/826eab0a-37ff-45e6-b6bc-1dfd38c3df87">
+
 
